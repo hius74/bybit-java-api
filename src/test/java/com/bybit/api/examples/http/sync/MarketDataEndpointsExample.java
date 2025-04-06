@@ -3,7 +3,6 @@ package com.bybit.api.examples.http.sync;
 import com.bybit.api.client.config.BybitApiConfig;
 import com.bybit.api.client.domain.market.*;
 import com.bybit.api.client.domain.market.request.MarketDataRequest;
-import com.bybit.api.client.domain.market.response.tickers.SpotTickerEntry;
 import com.bybit.api.client.service.BybitApiClientFactory;
 import com.bybit.api.client.domain.CategoryType;
 
